@@ -47,7 +47,7 @@ $lang['update_unsuccessful']         = 'Неможливо оновити обл
 $lang['delete_successful']         = 'Обліковий запис видалено';
 $lang['delete_unsuccessful']         = 'Неможливо видалити обліковий запис';
 
-// Email Subjects - TODO Please Translate
-$lang['email_forgotten_password_subject']    = 'Forgotten Password Verification';
-$lang['email_new_password_subject']          = 'New Password';
-$lang['email_activation_subject']            = 'Account Activation';
+// Email Subjects
+$lang['email_forgotten_password_subject']    = 'Верифікація Втраченого Пароля';
+$lang['email_new_password_subject']          = 'Новий Пароль';
+$lang['email_activation_subject']            = 'Активація Облікового Запису';
